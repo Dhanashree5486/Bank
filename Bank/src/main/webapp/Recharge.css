@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+
+body
+{
+	background-image: url("https://wallpaperaccess.com/full/3898677.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	overflow: hidden;
+}
+
+.form
+{
+	border-radius: 5px;
+	background-color: none;
+	padding: 20px;
+	height: 500px;
+	width: 500px;
+	margin-left: 500px;
+	margin-top: -130px;
+}
+
+input[type=text],select
+{
+	width:100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px #fb0006;
+	border-radius: 5px;
+	
+}
+
+.recharge
+{
+	background-color: #fb0006;
+	color: white;
+	font-family : URW Chancery L, cursive;
+	font-weight : bold;
+	font-size: 20px;
+	padding: 14px 55px;
+	border-radius: 30px;
+	border-color: #fb0006;
+	margin-left: 120px;
+	margin-top: 20px;
+}

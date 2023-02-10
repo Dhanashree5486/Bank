@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+
+body
+{
+	background-image : url("https://img.freepik.com/free-vector/blue-sky-with-clouds-background-elegant_1017-26302.jpg?w=2000");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: fixed;	
+	overflow: hidden;
+}
+
+.img2
+{
+	margin-left: 650px;
+	margin-top: -400px;
+}
+
+
+.register
+{
+	background-color: #fb0006;
+	color: white;
+	font-family : URW Chancery L, cursive;
+	font-weight : bold;
+	font-size: 20px;
+	padding: 14px 55px;
+	border-radius: 30px;
+	border-color: #fb0006;
+	position: relative;
+	top: -180px;
+	left: 200px
+}
+
+.login
+{
+	background-color: #fb0006;
+	color: white;
+	font-family : URW Chancery L, cursive;
+	font-weight : bold;
+	font-size: 20px;
+	padding: 14px 72px;
+	border-radius: 30px;
+	border-color: #fb0006;
+	position: relative;
+	top: -180px;
+	left: 200px
+}
+
+
+
+
+
+
+

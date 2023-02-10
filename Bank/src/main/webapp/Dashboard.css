@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+
+body
+{
+	background-image: url("https://wallpaperaccess.com/full/3898677.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	overflow: hidden;
+}
+
+.recharge
+{
+	background-color: #fb0006;
+	color: white;
+	font-family : URW Chancery L, cursive;
+	font-weight : bold;
+	font-size: 20px;
+	padding: 14px 90px;
+	border-radius: 30px;
+	border-color: #fb0006;
+	position: relative;
+	top: -100px;
+	left: 200px
+}
+
+.fundtransfer
+{
+	background-color: #fb0006;
+	color: white;
+	font-family : URW Chancery L, cursive;
+	font-weight : bold;
+	font-size: 20px;
+	padding: 14px 72px;
+	border-radius: 30px;
+	border-color: #fb0006;
+	position: relative;
+	top: -100px;
+	left: 200px
+}
+
